@@ -1,6 +1,6 @@
-import Ract from "react"
-import Account from "../Account"
-import AccountForm from "../AccountForm"
+import React from "react"
+import Account from "./Account"
+import AccountForm from "./AccountForm"
 
 const AccountProfile = () => (
   <>
